@@ -4,6 +4,8 @@
 - 👜 Trabalho em meus projetos pessoais
 - 📖 Cursando ensino médio
 - 📚 Praticando Python há 3 anos
+- 📚 MTA Lua Scripter
+- 👼 15 anos - Desde 2006
 
 <div align="center">
   <a href="https://github.com/generosodev">
@@ -16,6 +18,7 @@
   <img align="center" alt="Generoso-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Generos-sqlite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="Generos-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Generos-lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
 </div><br>
   
   
@@ -26,7 +29,6 @@
 
 </div>
 
-  
   ### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qlkrbrxlxyopx5r5pa7ym75srq&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=31qlkrbrxlxyopx5r5pa7ym75srq&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kkp4ao5kmi8fgxmgqcupodxtw&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 ---

@@ -1,10 +1,8 @@
 ### Olá! Eu sou o Flávio Generoso
 
 - 🔭 Suporte voluntário na <a href="https://discloudbot.com/">DisCloud</a>
-- 👜 Trabalho em meus projetos pessoais
+- 💼 Assistente e técnico no <a href="https://classealtacity.com/">Classe Alta</a>
 - 📖 Cursando ensino médio
-- 📚 Praticando Python há 3 anos
-- 📚 MTA Lua Scripter
 - 👼 15 anos - Desde 2006
 
 <div align="center">

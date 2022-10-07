@@ -26,7 +26,5 @@
   <a href="https://www.linkedin.com/in/fl%C3%A1vio-generoso-98596a236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
-
-  ### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kkp4ao5kmi8fgxmgqcupodxtw&cover_image=true&theme=novatorem)](https://github.com/GenerosoDEV)
+(https://github.com/GenerosoDEV)
 ---

@@ -3,7 +3,12 @@
 - 🔭 Suporte voluntário na <a href="https://discloudbot.com/">DisCloud</a>
 - 💼 Desenvolvedor no <a href="https://classealtacity.com/">Classe Alta</a>
 - 📖 Cursando ensino médio
-- 👼 15 anos - Desde 2006
+- 👼 16 anos - Desde 2006
+
+#### Linguagens
+- 🐍 Programador python há 3 anos
+- 🌙 Programador LUA há 1 ano
+- ➕ Estudando C++
 
 <div align="center">
   <a href="https://github.com/generosodev">

@@ -1,12 +1,13 @@
 ### Olá! Eu sou o Flávio Generoso
 
 - 🔭 Moderador voluntário na <a href="https://discloudbot.com/">DisCloud</a>
+- 💼 Trabalho atualmente como Auxiliar de Escritório
 - 📖 Cursando ensino médio
 - 👼 16 anos - Desde 2006
 
 #### Linguagens
-- 🐍 Programador python há 3 anos
-- 🌙 Programador LUA há 1 ano
+- 🐍 Python há 3 anos
+- 🌙 LUA há 1 ano
 - ➕ Estudando outras tecnologias
   
 <div align="center"> 

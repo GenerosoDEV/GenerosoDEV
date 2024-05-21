@@ -4,8 +4,8 @@
 - 📖 Cursando ensino médio
 
 #### Linguagens
-- 🐍 Python há 3 anos
-- 🌙 LUA há 1 ano
+- 🐍 Python
+- 🌙 LUA
 - ➕ Estudando outras tecnologias
   
 <div align="center"> 

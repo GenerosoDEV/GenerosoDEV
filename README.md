@@ -1,12 +1,12 @@
 ### Olá! Eu sou o Flávio Generoso
 
-- 🔭 Moderador voluntário na <a href="https://discloudbot.com/">DisCloud</a>
-- 📖 Cursando ensino médio
+- Analista de TI, Desenvolvedor Back-End e Supervisor de Sistemas
 
-#### Linguagens
-- 🐍 Python
-- 🌙 LUA
-- ➕ Estudando outras tecnologias
+#### Tecnologias
+- Python
+- SQL
+- NoSQL
+- JavaScript
   
 <div align="center"> 
   <a href="https://www.linkedin.com/in/flaviogeneroso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>

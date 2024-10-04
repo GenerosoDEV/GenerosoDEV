@@ -1,12 +1,14 @@
 ### Olá! Eu sou o Flávio Generoso
 
-- Analista de TI, Desenvolvedor Back-End e Supervisor de Sistemas
+- Analista de TI, Desenvolvedor Full-Stack e Supervisor de Sistemas
 
 #### Tecnologias
 - Python
-- SQL
-- NoSQL
 - JavaScript
+- HTML
+- CSS
+- SQL (MySQL, HeidiSQL)
+- NoSQL (Firebase Realtime, MongoDB)
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/flaviogeneroso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
